@@ -4,9 +4,23 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/  
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "Publications"
+    url: /publications/
+  - title: "Categories"
+    url: /categories
+  - title: "Recent"
+    url: /recent/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+    # - title : "test"
+    #     subfolderitems:
+    #      - page: Intro
+    #      url: /Delivery/delivery-intro.html
+    #      - page: Set Up
+    #      url: /Delivery/delivery-deploy.html
+    #      - page: Thing 3
+    #      url: /thing3.html
