@@ -1,5 +1,5 @@
 # [About Me](http://bit.ly/yp-intro)
-> ## [Go to Uri](https://epsilon-deltta.github.io/about)
+> ## [Go to Site](https://epsilon-deltta.github.io/about)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
