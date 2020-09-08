@@ -99,6 +99,9 @@ author:
   location         : "Korea,Daejeon"
   email            : "kokomong1316@gmail.com"
   links:
+    - label: "010-8460-2176"
+      icon: "fas fa-fw fa-phone-square-alt"
+      url: "tel:01084602176"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
