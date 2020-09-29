@@ -11,6 +11,8 @@ author_profile: true
 > - Daeseong High school in Daejeon
 > - Dropped out Cheongju University(AI sw) at junior
 > - Homepage development Company
+> - IT edu business
+> - Freelancer
 >> - 📊 Molpax Bio (now)
 
 ## Activity
