@@ -7,7 +7,7 @@ toc_sticky: true
 author_profile: true
 ---
 
-## Social Community
+## Social Biography
 > - Daeseong High school in Daejeon
 > - Dropped out Cheongju University(AI sw) at junior
 > - Homepage development Company
@@ -16,5 +16,6 @@ author_profile: true
 >> - 📊 Molpax Bio (now)
 
 ## Activity
+> Making dna/rna tool web in medical kaist lab (now)
 - ....
 
