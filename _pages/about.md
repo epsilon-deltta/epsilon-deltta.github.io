@@ -14,7 +14,7 @@ author_profile: true
 > - IT edu business
 > - Freelancer
 > - 📊 Molpax Bio ~2020.11)
->> NIPA (National IT Industry Promotion Agency,정보통신산업진흥원) (now)
+>> 🏛 NIPA (National IT Industry Promotion Agency,정보통신산업진흥원) (now)
 
 ## Activity
 > Making dna/rna tool web in medical kaist lab 
