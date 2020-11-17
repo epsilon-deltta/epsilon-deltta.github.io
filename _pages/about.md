@@ -17,7 +17,7 @@ author_profile: true
 >> 🏛 NIPA (National IT Industry Promotion Agency,정보통신산업진흥원) (now)
 
 ## Activity
-> Making dna/rna tool web in medical kaist lab 
-> Making prediction program about Bank-Marketing in NIPA (now)
+> - Making dna/rna tool web in medical kaist lab 
+> - Making prediction program about Bank-Marketing in NIPA (now)
 - ....
 
