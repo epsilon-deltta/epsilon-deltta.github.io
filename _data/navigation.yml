@@ -4,10 +4,12 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Categories"
-    url: /categories
-  - title: "Recent"
-    url: /recent/
+  - title: "My Lab"
+    url : https://epsilon-deltta.github.io/epsilon-lab/about/
+  # - title: "Categories"
+  # url: /categories
+  # - title: "Recent"
+    # url: /recent/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/  
   # - title: "Sample Posts"

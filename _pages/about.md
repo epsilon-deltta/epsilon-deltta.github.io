@@ -17,6 +17,9 @@ author_profile: true
 > - 📊 Molpax Bio ~2020.11)
 >> - 🏛 영우글로벌러닝 인공지능 과정 교육 (now)
 
+## Researching Topic (theseday)
+> - Initialization when starting deep learning
+> - lightgbm and bayesian hyperparameter auto-tuning
 
 ## Activity
 > - Making dna/rna tool web in medical kaist lab 
