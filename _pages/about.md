@@ -9,17 +9,19 @@ author_profile: true
 
 ## Social Biography
 
-> - Major : computer science (ai sw)
-> - Homepage development Company (as worker)
-> - IT edu business 
+> - B.S : computer science
+> - Homepage development Company (as a employee)
+> - IT edu business (start up)
 > - Freelancer (java web spring, django , python modules and etc) 
-> - [Gan soft](https://gan-sw.com/) r&d (not active)
+> - [Gan soft](https://gan-sw.com/) r&d 
 > - 📊 Molpax Bio ~2020.11)
->> - 🏛 영우글로벌러닝 인공지능 과정 교육 (now)
+> - 🏛 영우글로벌러닝 [인공지능 과정 교육](https://www.hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20200000286666&tracseTme=1&crseTracseSe=C0061&trainstCstmrId=#) (2020.12~2021.5)
+> - AIV lab (2021.6~)
 
-## Researching Topic (theseday)
-> - Initialization when starting deep learning
-> - lightgbm and bayesian hyperparameter auto-tuning
+## Researching Topic 
+> : DeepLearning Vision
+> - Object detection , segmentation
+> - (foreground-backgorund) Class Imbalanced problem (when training)
 
 ## Activity
 > - Making dna/rna tool web in medical kaist lab 
@@ -29,8 +31,7 @@ author_profile: true
 > Generating keywords and Inserting keywords to NaverDatalab automatically   
 ![](https://crowdparti.s3.ap-northeast-2.amazonaws.com/images/logo-transparent.png) 
 
-> - bs modeling(about text summarization) (not active)
-> - Leader of [YGL Renaissance](https://yg-renaissance.github.io/) (now)
+> - Leader of [YGL Renaissance](https://yg-renaissance.github.io/)
 
 - ....
 

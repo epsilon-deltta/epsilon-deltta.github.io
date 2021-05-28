@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "My Lab"
-    url : https://epsilon-deltta.github.io/epsilon-lab/about/
+  # - title: "My Lab"
+    # url : https://epsilon-deltta.github.io/epsilon-lab/about/
   # - title: "Categories"
   # url: /categories
   # - title: "Recent"

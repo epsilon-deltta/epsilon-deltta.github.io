@@ -7,5 +7,4 @@ toc: true
 tags: [publication]
 ---
 
-## Journal
-쓸내용들
+## Journal and Processing
